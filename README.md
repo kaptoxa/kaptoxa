@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex!
 - 👀 I’m interested in Emacs, C++, Lisp, Golang
-- 🌱 I’m currently learning how to take smart notes, organizing habits and agile.
+- 🌱 I’m currently learning how to take smart notes, to organize habits and what is agile.
 - 💞️ I’m looking to collaborate on some IT project as projects manager.
 - 📫 How to reach me - kaptoxa@mail.ru
 
