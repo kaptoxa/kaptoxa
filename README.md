@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex!
 - 👀 I’m interested in Emacs, C++, Lisp, Golang
-- 🌱 I’m currently learning how to take smart notes, to organize habits and what is agile.
+- 🌱 I’m currently learning how to take smart notes, organize habits and what agile software development is.
 
 <!---
 kaptoxa/kaptoxa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
